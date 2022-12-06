@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://dailysontaubien.com/sitemap.xml
